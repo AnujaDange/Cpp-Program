@@ -23,7 +23,7 @@ public:
     }
 };
 int main()
-{
+{  
     pattern s;
     s.rhombus();
     return(0);
